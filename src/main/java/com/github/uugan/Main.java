@@ -11,7 +11,6 @@ import onbon.bx06.file.ProgramBxFile;
 import onbon.bx06.series.Bx6M;
 import onbon.bx06.utils.DisplayStyleFactory;
 import onbon.bx06.utils.TextBinary;
-import org.apache.log4j.spi.LoggerFactory;
 import org.json.JSONObject;
 import org.rapidoid.config.Conf;
 import org.rapidoid.setup.App;
