@@ -1,0 +1,150 @@
+INFO  21:49:04 onbon.bx06.Bx6GEnv                                      - ONBON BX6:      0.6.0-191029A
+INFO  21:49:04 onbon.bx06.Bx6GEnv                                      - POM.groupId:    onbon
+INFO  21:49:04 onbon.bx06.Bx6GEnv                                      - POM.artifactId: bx06
+INFO  21:49:04 onbon.bx06.Bx6GEnv                                      - POM.version:    0.6.0-SNAPSHOT
+INFO  21:49:04 onbon.bx06.Bx6GEnv                                      - UIA.COMM:       2019711A
+INFO  21:50:49 onbon.bx06.Bx6GEnv                                      - ONBON BX6:      0.6.0-191029A
+INFO  21:50:49 onbon.bx06.Bx6GEnv                                      - POM.groupId:    onbon
+INFO  21:50:49 onbon.bx06.Bx6GEnv                                      - POM.artifactId: bx06
+INFO  21:50:49 onbon.bx06.Bx6GEnv                                      - POM.version:    0.6.0-SNAPSHOT
+INFO  21:50:49 onbon.bx06.Bx6GEnv                                      - UIA.COMM:       2019711A
+INFO  21:51:31 onbon.bx06.Bx6GEnv                                      - ONBON BX6:      0.6.0-191029A
+INFO  21:51:31 onbon.bx06.Bx6GEnv                                      - POM.groupId:    onbon
+INFO  21:51:31 onbon.bx06.Bx6GEnv                                      - POM.artifactId: bx06
+INFO  21:51:31 onbon.bx06.Bx6GEnv                                      - POM.version:    0.6.0-SNAPSHOT
+INFO  21:51:31 onbon.bx06.Bx6GEnv                                      - UIA.COMM:       2019711A
+INFO  21:53:15 onbon.bx06.Bx6GEnv                                      - ONBON BX6:      0.6.0-191029A
+INFO  21:53:15 onbon.bx06.Bx6GEnv                                      - POM.groupId:    onbon
+INFO  21:53:15 onbon.bx06.Bx6GEnv                                      - POM.artifactId: bx06
+INFO  21:53:15 onbon.bx06.Bx6GEnv                                      - POM.version:    0.6.0-SNAPSHOT
+INFO  21:53:15 onbon.bx06.Bx6GEnv                                      - UIA.COMM:       2019711A
+INFO  21:56:11 onbon.bx06.Bx6GEnv                                      - ONBON BX6:      0.6.0-191029A
+INFO  21:56:11 onbon.bx06.Bx6GEnv                                      - POM.groupId:    onbon
+INFO  21:56:11 onbon.bx06.Bx6GEnv                                      - POM.artifactId: bx06
+INFO  21:56:11 onbon.bx06.Bx6GEnv                                      - POM.version:    0.6.0-SNAPSHOT
+INFO  21:56:11 onbon.bx06.Bx6GEnv                                      - UIA.COMM:       2019711A
+INFO  21:57:03 onbon.bx06.Bx6GEnv                                      - ONBON BX6:      0.6.0-191029A
+INFO  21:57:03 onbon.bx06.Bx6GEnv                                      - POM.groupId:    onbon
+INFO  21:57:03 onbon.bx06.Bx6GEnv                                      - POM.artifactId: bx06
+INFO  21:57:03 onbon.bx06.Bx6GEnv                                      - POM.version:    0.6.0-SNAPSHOT
+INFO  21:57:03 onbon.bx06.Bx6GEnv                                      - UIA.COMM:       2019711A
+INFO  21:58:26 onbon.bx06.Bx6GEnv                                      - ONBON BX6:      0.6.0-191029A
+INFO  21:58:26 onbon.bx06.Bx6GEnv                                      - POM.groupId:    onbon
+INFO  21:58:26 onbon.bx06.Bx6GEnv                                      - POM.artifactId: bx06
+INFO  21:58:26 onbon.bx06.Bx6GEnv                                      - POM.version:    0.6.0-SNAPSHOT
+INFO  21:58:26 onbon.bx06.Bx6GEnv                                      - UIA.COMM:       2019711A
+ERROR 21:58:28 uia.comm.SocketClient                                   - MyScreen> connect failed to 192.168.88.199:5005
+java.net.SocketTimeoutException
+	at sun.nio.ch.SocketAdaptor.connect(SocketAdaptor.java:118)
+	at uia.comm.SocketClient.tryConnect(SocketClient.java:206)
+	at uia.comm.SocketClient.connect(SocketClient.java:166)
+	at onbon.bx06.Bx6GControllerClient.connect(Bx6GControllerClient.java:69)
+	at onbon.bx06.Bx6GScreenClient.connect(Bx6GScreenClient.java:113)
+	at com.github.uugan.Main.initTCP(Main.java:89)
+	at com.github.uugan.Main.init(Main.java:57)
+	at com.github.uugan.Main.main(Main.java:38)
+ERROR 21:58:33 uia.comm.SocketClient                                   - MyScreen> connect failed to 192.168.88.199:5005
+java.net.SocketTimeoutException
+	at sun.nio.ch.SocketAdaptor.connect(SocketAdaptor.java:118)
+	at uia.comm.SocketClient.tryConnect(SocketClient.java:206)
+	at uia.comm.SocketClient.connect(SocketClient.java:166)
+	at onbon.bx06.Bx6GControllerClient.connect(Bx6GControllerClient.java:69)
+	at onbon.bx06.Bx6GScreenClient.connect(Bx6GScreenClient.java:113)
+	at com.github.uugan.Main.initTCP(Main.java:89)
+	at com.github.uugan.Main.init(Main.java:57)
+	at com.github.uugan.Main.main(Main.java:38)
+ERROR 21:58:38 uia.comm.SocketClient                                   - MyScreen> connect failed to 192.168.88.199:5005
+java.net.SocketTimeoutException
+	at sun.nio.ch.SocketAdaptor.connect(SocketAdaptor.java:118)
+	at uia.comm.SocketClient.tryConnect(SocketClient.java:206)
+	at uia.comm.SocketClient.connect(SocketClient.java:166)
+	at onbon.bx06.Bx6GControllerClient.connect(Bx6GControllerClient.java:69)
+	at onbon.bx06.Bx6GScreenClient.connect(Bx6GScreenClient.java:113)
+	at com.github.uugan.Main.initTCP(Main.java:89)
+	at com.github.uugan.Main.init(Main.java:57)
+	at com.github.uugan.Main.main(Main.java:38)
+ERROR 21:58:43 uia.comm.SocketClient                                   - MyScreen> connect failed to 192.168.88.199:5005
+java.net.SocketTimeoutException
+	at sun.nio.ch.SocketAdaptor.connect(SocketAdaptor.java:118)
+	at uia.comm.SocketClient.tryConnect(SocketClient.java:206)
+	at uia.comm.SocketClient.connect(SocketClient.java:166)
+	at onbon.bx06.Bx6GControllerClient.connect(Bx6GControllerClient.java:69)
+	at onbon.bx06.Bx6GScreenClient.connect(Bx6GScreenClient.java:113)
+	at com.github.uugan.Main.initTCP(Main.java:89)
+	at com.github.uugan.Main.init(Main.java:57)
+	at com.github.uugan.Main.main(Main.java:38)
+INFO  21:59:22 onbon.bx06.Bx6GEnv                                      - ONBON BX6:      0.6.0-191029A
+INFO  21:59:22 onbon.bx06.Bx6GEnv                                      - POM.groupId:    onbon
+INFO  21:59:22 onbon.bx06.Bx6GEnv                                      - POM.artifactId: bx06
+INFO  21:59:22 onbon.bx06.Bx6GEnv                                      - POM.version:    0.6.0-SNAPSHOT
+INFO  21:59:22 onbon.bx06.Bx6GEnv                                      - UIA.COMM:       2019711A
+ERROR 21:59:24 uia.comm.SocketClient                                   - MyScreen> connect failed to 192.168.88.199:5005
+java.net.SocketTimeoutException
+	at sun.nio.ch.SocketAdaptor.connect(SocketAdaptor.java:118)
+	at uia.comm.SocketClient.tryConnect(SocketClient.java:206)
+	at uia.comm.SocketClient.connect(SocketClient.java:166)
+	at onbon.bx06.Bx6GControllerClient.connect(Bx6GControllerClient.java:69)
+	at onbon.bx06.Bx6GScreenClient.connect(Bx6GScreenClient.java:113)
+	at com.github.uugan.Main.initTCP(Main.java:89)
+	at com.github.uugan.Main.init(Main.java:57)
+	at com.github.uugan.Main.main(Main.java:38)
+ERROR 21:59:29 uia.comm.SocketClient                                   - MyScreen> connect failed to 192.168.88.199:5005
+java.net.SocketTimeoutException
+	at sun.nio.ch.SocketAdaptor.connect(SocketAdaptor.java:118)
+	at uia.comm.SocketClient.tryConnect(SocketClient.java:206)
+	at uia.comm.SocketClient.connect(SocketClient.java:166)
+	at onbon.bx06.Bx6GControllerClient.connect(Bx6GControllerClient.java:69)
+	at onbon.bx06.Bx6GScreenClient.connect(Bx6GScreenClient.java:113)
+	at com.github.uugan.Main.initTCP(Main.java:89)
+	at com.github.uugan.Main.init(Main.java:57)
+	at com.github.uugan.Main.main(Main.java:38)
+INFO  22:03:41 onbon.bx06.Bx6GEnv                                      - ONBON BX6:      0.6.0-191029A
+INFO  22:03:41 onbon.bx06.Bx6GEnv                                      - POM.groupId:    onbon
+INFO  22:03:41 onbon.bx06.Bx6GEnv                                      - POM.artifactId: bx06
+INFO  22:03:41 onbon.bx06.Bx6GEnv                                      - POM.version:    0.6.0-SNAPSHOT
+INFO  22:03:41 onbon.bx06.Bx6GEnv                                      - UIA.COMM:       2019711A
+ERROR 22:03:43 uia.comm.SocketClient                                   - MyScreen> connect failed to 192.168.88.199:5005
+java.net.SocketTimeoutException
+	at sun.nio.ch.SocketAdaptor.connect(SocketAdaptor.java:118)
+	at uia.comm.SocketClient.tryConnect(SocketClient.java:206)
+	at uia.comm.SocketClient.connect(SocketClient.java:166)
+	at onbon.bx06.Bx6GControllerClient.connect(Bx6GControllerClient.java:69)
+	at onbon.bx06.Bx6GScreenClient.connect(Bx6GScreenClient.java:113)
+	at com.github.uugan.Main.initTCP(Main.java:90)
+	at com.github.uugan.Main.init(Main.java:58)
+	at com.github.uugan.Main.main(Main.java:40)
+ERROR 22:03:48 uia.comm.SocketClient                                   - MyScreen> connect failed to 192.168.88.199:5005
+java.net.SocketTimeoutException
+	at sun.nio.ch.SocketAdaptor.connect(SocketAdaptor.java:118)
+	at uia.comm.SocketClient.tryConnect(SocketClient.java:206)
+	at uia.comm.SocketClient.connect(SocketClient.java:166)
+	at onbon.bx06.Bx6GControllerClient.connect(Bx6GControllerClient.java:69)
+	at onbon.bx06.Bx6GScreenClient.connect(Bx6GScreenClient.java:113)
+	at com.github.uugan.Main.initTCP(Main.java:90)
+	at com.github.uugan.Main.init(Main.java:58)
+	at com.github.uugan.Main.main(Main.java:40)
+ERROR 22:03:53 uia.comm.SocketClient                                   - MyScreen> connect failed to 192.168.88.199:5005
+java.net.SocketTimeoutException
+	at sun.nio.ch.SocketAdaptor.connect(SocketAdaptor.java:118)
+	at uia.comm.SocketClient.tryConnect(SocketClient.java:206)
+	at uia.comm.SocketClient.connect(SocketClient.java:166)
+	at onbon.bx06.Bx6GControllerClient.connect(Bx6GControllerClient.java:69)
+	at onbon.bx06.Bx6GScreenClient.connect(Bx6GScreenClient.java:113)
+	at com.github.uugan.Main.initTCP(Main.java:90)
+	at com.github.uugan.Main.init(Main.java:58)
+	at com.github.uugan.Main.main(Main.java:40)
+ERROR 22:03:58 uia.comm.SocketClient                                   - MyScreen> connect failed to 192.168.88.199:5005
+java.net.SocketTimeoutException
+	at sun.nio.ch.SocketAdaptor.connect(SocketAdaptor.java:118)
+	at uia.comm.SocketClient.tryConnect(SocketClient.java:206)
+	at uia.comm.SocketClient.connect(SocketClient.java:166)
+	at onbon.bx06.Bx6GControllerClient.connect(Bx6GControllerClient.java:69)
+	at onbon.bx06.Bx6GScreenClient.connect(Bx6GScreenClient.java:113)
+	at com.github.uugan.Main.initTCP(Main.java:90)
+	at com.github.uugan.Main.init(Main.java:58)
+	at com.github.uugan.Main.main(Main.java:40)
+INFO  22:04:19 onbon.bx06.Bx6GEnv                                      - ONBON BX6:      0.6.0-191029A
+INFO  22:04:19 onbon.bx06.Bx6GEnv                                      - POM.groupId:    onbon
+INFO  22:04:19 onbon.bx06.Bx6GEnv                                      - POM.artifactId: bx06
+INFO  22:04:19 onbon.bx06.Bx6GEnv                                      - POM.version:    0.6.0-SNAPSHOT
+INFO  22:04:19 onbon.bx06.Bx6GEnv                                      - UIA.COMM:       2019711A

@@ -1,0 +1,100 @@
+ERROR 21:58:28 uia.comm.SocketClient                              tryConnect           250   - MyScreen> connect failed to 192.168.88.199:5005
+java.net.SocketTimeoutException
+	at sun.nio.ch.SocketAdaptor.connect(SocketAdaptor.java:118)
+	at uia.comm.SocketClient.tryConnect(SocketClient.java:206)
+	at uia.comm.SocketClient.connect(SocketClient.java:166)
+	at onbon.bx06.Bx6GControllerClient.connect(Bx6GControllerClient.java:69)
+	at onbon.bx06.Bx6GScreenClient.connect(Bx6GScreenClient.java:113)
+	at com.github.uugan.Main.initTCP(Main.java:89)
+	at com.github.uugan.Main.init(Main.java:57)
+	at com.github.uugan.Main.main(Main.java:38)
+ERROR 21:58:33 uia.comm.SocketClient                              tryConnect           250   - MyScreen> connect failed to 192.168.88.199:5005
+java.net.SocketTimeoutException
+	at sun.nio.ch.SocketAdaptor.connect(SocketAdaptor.java:118)
+	at uia.comm.SocketClient.tryConnect(SocketClient.java:206)
+	at uia.comm.SocketClient.connect(SocketClient.java:166)
+	at onbon.bx06.Bx6GControllerClient.connect(Bx6GControllerClient.java:69)
+	at onbon.bx06.Bx6GScreenClient.connect(Bx6GScreenClient.java:113)
+	at com.github.uugan.Main.initTCP(Main.java:89)
+	at com.github.uugan.Main.init(Main.java:57)
+	at com.github.uugan.Main.main(Main.java:38)
+ERROR 21:58:38 uia.comm.SocketClient                              tryConnect           250   - MyScreen> connect failed to 192.168.88.199:5005
+java.net.SocketTimeoutException
+	at sun.nio.ch.SocketAdaptor.connect(SocketAdaptor.java:118)
+	at uia.comm.SocketClient.tryConnect(SocketClient.java:206)
+	at uia.comm.SocketClient.connect(SocketClient.java:166)
+	at onbon.bx06.Bx6GControllerClient.connect(Bx6GControllerClient.java:69)
+	at onbon.bx06.Bx6GScreenClient.connect(Bx6GScreenClient.java:113)
+	at com.github.uugan.Main.initTCP(Main.java:89)
+	at com.github.uugan.Main.init(Main.java:57)
+	at com.github.uugan.Main.main(Main.java:38)
+ERROR 21:58:43 uia.comm.SocketClient                              tryConnect           250   - MyScreen> connect failed to 192.168.88.199:5005
+java.net.SocketTimeoutException
+	at sun.nio.ch.SocketAdaptor.connect(SocketAdaptor.java:118)
+	at uia.comm.SocketClient.tryConnect(SocketClient.java:206)
+	at uia.comm.SocketClient.connect(SocketClient.java:166)
+	at onbon.bx06.Bx6GControllerClient.connect(Bx6GControllerClient.java:69)
+	at onbon.bx06.Bx6GScreenClient.connect(Bx6GScreenClient.java:113)
+	at com.github.uugan.Main.initTCP(Main.java:89)
+	at com.github.uugan.Main.init(Main.java:57)
+	at com.github.uugan.Main.main(Main.java:38)
+ERROR 21:59:24 uia.comm.SocketClient                              tryConnect           250   - MyScreen> connect failed to 192.168.88.199:5005
+java.net.SocketTimeoutException
+	at sun.nio.ch.SocketAdaptor.connect(SocketAdaptor.java:118)
+	at uia.comm.SocketClient.tryConnect(SocketClient.java:206)
+	at uia.comm.SocketClient.connect(SocketClient.java:166)
+	at onbon.bx06.Bx6GControllerClient.connect(Bx6GControllerClient.java:69)
+	at onbon.bx06.Bx6GScreenClient.connect(Bx6GScreenClient.java:113)
+	at com.github.uugan.Main.initTCP(Main.java:89)
+	at com.github.uugan.Main.init(Main.java:57)
+	at com.github.uugan.Main.main(Main.java:38)
+ERROR 21:59:29 uia.comm.SocketClient                              tryConnect           250   - MyScreen> connect failed to 192.168.88.199:5005
+java.net.SocketTimeoutException
+	at sun.nio.ch.SocketAdaptor.connect(SocketAdaptor.java:118)
+	at uia.comm.SocketClient.tryConnect(SocketClient.java:206)
+	at uia.comm.SocketClient.connect(SocketClient.java:166)
+	at onbon.bx06.Bx6GControllerClient.connect(Bx6GControllerClient.java:69)
+	at onbon.bx06.Bx6GScreenClient.connect(Bx6GScreenClient.java:113)
+	at com.github.uugan.Main.initTCP(Main.java:89)
+	at com.github.uugan.Main.init(Main.java:57)
+	at com.github.uugan.Main.main(Main.java:38)
+ERROR 22:03:43 uia.comm.SocketClient                              tryConnect           250   - MyScreen> connect failed to 192.168.88.199:5005
+java.net.SocketTimeoutException
+	at sun.nio.ch.SocketAdaptor.connect(SocketAdaptor.java:118)
+	at uia.comm.SocketClient.tryConnect(SocketClient.java:206)
+	at uia.comm.SocketClient.connect(SocketClient.java:166)
+	at onbon.bx06.Bx6GControllerClient.connect(Bx6GControllerClient.java:69)
+	at onbon.bx06.Bx6GScreenClient.connect(Bx6GScreenClient.java:113)
+	at com.github.uugan.Main.initTCP(Main.java:90)
+	at com.github.uugan.Main.init(Main.java:58)
+	at com.github.uugan.Main.main(Main.java:40)
+ERROR 22:03:48 uia.comm.SocketClient                              tryConnect           250   - MyScreen> connect failed to 192.168.88.199:5005
+java.net.SocketTimeoutException
+	at sun.nio.ch.SocketAdaptor.connect(SocketAdaptor.java:118)
+	at uia.comm.SocketClient.tryConnect(SocketClient.java:206)
+	at uia.comm.SocketClient.connect(SocketClient.java:166)
+	at onbon.bx06.Bx6GControllerClient.connect(Bx6GControllerClient.java:69)
+	at onbon.bx06.Bx6GScreenClient.connect(Bx6GScreenClient.java:113)
+	at com.github.uugan.Main.initTCP(Main.java:90)
+	at com.github.uugan.Main.init(Main.java:58)
+	at com.github.uugan.Main.main(Main.java:40)
+ERROR 22:03:53 uia.comm.SocketClient                              tryConnect           250   - MyScreen> connect failed to 192.168.88.199:5005
+java.net.SocketTimeoutException
+	at sun.nio.ch.SocketAdaptor.connect(SocketAdaptor.java:118)
+	at uia.comm.SocketClient.tryConnect(SocketClient.java:206)
+	at uia.comm.SocketClient.connect(SocketClient.java:166)
+	at onbon.bx06.Bx6GControllerClient.connect(Bx6GControllerClient.java:69)
+	at onbon.bx06.Bx6GScreenClient.connect(Bx6GScreenClient.java:113)
+	at com.github.uugan.Main.initTCP(Main.java:90)
+	at com.github.uugan.Main.init(Main.java:58)
+	at com.github.uugan.Main.main(Main.java:40)
+ERROR 22:03:58 uia.comm.SocketClient                              tryConnect           250   - MyScreen> connect failed to 192.168.88.199:5005
+java.net.SocketTimeoutException
+	at sun.nio.ch.SocketAdaptor.connect(SocketAdaptor.java:118)
+	at uia.comm.SocketClient.tryConnect(SocketClient.java:206)
+	at uia.comm.SocketClient.connect(SocketClient.java:166)
+	at onbon.bx06.Bx6GControllerClient.connect(Bx6GControllerClient.java:69)
+	at onbon.bx06.Bx6GScreenClient.connect(Bx6GScreenClient.java:113)
+	at com.github.uugan.Main.initTCP(Main.java:90)
+	at com.github.uugan.Main.init(Main.java:58)
+	at com.github.uugan.Main.main(Main.java:40)
