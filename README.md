@@ -9,6 +9,8 @@ copy lib folder with main jar file then run as follow:
 
 ## Example
 Send json to http://server_ip:8080/ port :
+type \in  { text, dynamictext }
+
 ```json
 {
   "type":"text",
